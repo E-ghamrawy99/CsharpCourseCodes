@@ -1,0 +1,6 @@
+F:\C# course level 1\visual studio projects\myVaribles\myVaribles\bin\Debug\myVaribles.exe.config
+F:\C# course level 1\visual studio projects\myVaribles\myVaribles\bin\Debug\myVaribles.exe
+F:\C# course level 1\visual studio projects\myVaribles\myVaribles\bin\Debug\myVaribles.pdb
+F:\C# course level 1\visual studio projects\myVaribles\myVaribles\obj\Debug\myVaribles.csprojResolveAssemblyReference.cache
+F:\C# course level 1\visual studio projects\myVaribles\myVaribles\obj\Debug\myVaribles.exe
+F:\C# course level 1\visual studio projects\myVaribles\myVaribles\obj\Debug\myVaribles.pdb
